@@ -10,7 +10,7 @@
           "secondaryAction": "/contact"
         },
         "title": "Precision Engineering for Critical Industrial Applications",
-        "subtitle": "25 Years of Manufacturing Excellence in Brass Components",
+        "subtitle": "25 Years of Manufacturing Excellence in Brass Precision Components",
         "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
       },
       {
@@ -21,8 +21,8 @@
           "secondaryAction": "/contact"
         },
         "title": "Advanced Manufacturing Solutions for Automotive and Electric Sectors",
-        "subtitle": "Cutting-Edge Technology Delivering Precision Components Worldwide",
-        "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
+        "subtitle": "Cutting-Edge Technology Delivering High-Precision Custom Components",
+        "backgroundImage": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1920&h=1080&fit=crop&auto=format"
       },
       {
         "cta": {
@@ -31,8 +31,8 @@
           "primaryAction": "/about",
           "secondaryAction": "tel:+18005551234"
         },
-        "title": "Trusted Partner for Complex Precision Component Manufacturing",
-        "subtitle": "ISO Certified Solutions Serving Global Industrial Requirements",
+        "title": "Trusted Precision Components Manufacturer Worldwide",
+        "subtitle": "Comprehensive OEM Solutions with 24/7 Customer Support and Customization",
         "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=1920&h=1080&fit=crop&auto=format"
       }
     ],
@@ -40,7 +40,7 @@
   },
   "meta": {
     "title": "Metalloid - Precision Component Manufacturing | Industrial Solutions",
-    "description": "Leading brass precision components manufacturer with 25 years of expertise, serving automotive, electric, and pneumatic industries globally."
+    "description": "Leading brass precision components manufacturer with 25 years of expertise, serving automotive, electric, and pneumatic industries nationwide."
   },
   "sections": {
     "cta": {
@@ -62,27 +62,27 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We offer flexible order quantities ranging from prototype batches to large-scale industrial production runs.",
+          "answer": "We accommodate orders from small prototype runs to large-scale production, with flexible MOQ based on component complexity and specifications.",
           "question": "What are your minimum order quantities?"
         },
         {
           "id": "lead-time",
-          "answer": "Standard lead times range from 2-6 weeks depending on component complexity and order volume.",
-          "question": "What are your typical production lead times?"
+          "answer": "Standard lead times range from 2-6 weeks depending on component complexity, with expedited options available for urgent requirements.",
+          "question": "What are typical production lead times?"
         },
         {
           "id": "quality",
-          "answer": "We are ISO 9001:2015 certified with rigorous quality control processes and advanced inspection technologies.",
+          "answer": "We are ISO 9001:2015 certified with rigorous quality control processes, ensuring consistent precision and reliability across all manufacturing stages.",
           "question": "What quality certifications do you maintain?"
         },
         {
           "id": "customization",
-          "answer": "Yes, we specialize in custom precision component design and manufacturing with comprehensive engineering support.",
+          "answer": "Yes, we specialize in custom precision component design with advanced laser marking and full engineering support throughout development.",
           "question": "Can you handle custom component designs?"
         },
         {
           "id": "materials",
-          "answer": "We primarily work with brass, but also offer capabilities in stainless steel, aluminum, and specialized alloys.",
+          "answer": "We primarily manufacture brass components with capabilities in various grades and specialized alloys for diverse industrial applications.",
           "question": "What materials do you work with?"
         }
       ],
@@ -122,42 +122,30 @@
         {
           "id": "automotive",
           "name": "Automotive",
-          "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&fit=crop",
-          "description": "Specialized precision components for automotive systems, including spark plugs and brake calipers",
+          "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1920&h=1080&fit=crop&auto=format",
+          "description": "Specialized precision components for automotive systems, including spark plugs, calipers, and critical engine components",
           "applications": [
             "Spark Plug Connectors",
-            "Brake Caliper Components",
-            "Sensor Housings",
-            "Electrical Connectors"
+            "Brake System Components",
+            "Engine Valve Assemblies",
+            "Transmission Parts"
           ]
         },
         {
           "id": "electrical",
           "name": "Electrical",
-          "image": "https://images.unsplash.com/photo-1516737490857-848138dace41?w=800&fit=crop",
-          "description": "High-precision electrical components for complex industrial and consumer applications",
+          "image": "https://images.unsplash.com/photo-1516737490857-848138dace41?w=1920&h=1080&fit=crop&auto=format",
+          "description": "High-precision electrical components including sockets, pins, and specialized plugs for diverse applications",
           "applications": [
-            "Socket Pins",
-            "Electrical Plugs",
-            "Connector Assemblies",
-            "Terminal Blocks"
-          ]
-        },
-        {
-          "id": "pneumatic",
-          "name": "Pneumatic Systems",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=800&fit=crop",
-          "description": "Precision components for pneumatic and pressure control systems",
-          "applications": [
-            "Pressure Gauge Components",
-            "Valve Assemblies",
-            "Pressure Regulator Parts",
-            "Pneumatic Connector Fittings"
+            "Electrical Socket Components",
+            "Power Connector Pins",
+            "Circuit Board Interfaces",
+            "Electrical Junction Parts"
           ]
         }
       ],
-      "subtitle": "Comprehensive solutions across multiple industrial sectors",
-      "description": "Metalloid delivers precision-engineered components for diverse industrial applications, combining advanced manufacturing technologies with deep technical expertise."
+      "subtitle": "Precision Solutions Across Critical Industrial Sectors",
+      "description": "Metalloid delivers specialized precision components across multiple industrial sectors, combining advanced manufacturing technologies with deep engineering expertise."
     }
   }
 }
